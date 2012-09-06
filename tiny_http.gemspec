@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = "tiny_http"
-  s.version = "0.1"
+  s.version = "0.1.1"
 
   s.authors = ["Josh Lubaway"]
   s.email = "dontneedmoreemail@example.com"
-  s.homepage = "http://github.com/jish/pre-commit"
+  s.homepage = "http://github.com/jish/tiny_http"
   s.files = Dir["lib/**/*"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.24"
