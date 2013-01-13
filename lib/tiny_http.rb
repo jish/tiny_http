@@ -4,7 +4,7 @@ class TinyHttp
 
   def get(url)
     uri = URI.parse(url)
-    request = Net::HTTP::Get.new(uri.path)
+    request = Net::HTTP::Get.new(uri.request_uri)
 
     response = send_request(uri, request)
   end
