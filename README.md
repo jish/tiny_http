@@ -1,7 +1,6 @@
-tiny_http
-=========
+### Tiny HTTP
 
-The smallest http library I need.
+The smallest http library you need.
 
 ### Usage
 
