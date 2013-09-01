@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "tiny_http"
-  s.version = "0.1.1"
+  s.version = "0.1.2"
 
   s.authors = ["Josh Lubaway"]
   s.email = "dontneedmoreemail@example.com"
